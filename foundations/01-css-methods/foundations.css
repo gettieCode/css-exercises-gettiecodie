@@ -3,3 +3,13 @@ div{
     background-color: red;
     text-align: center;
 }
+
+p{
+    color: white;
+    background-color: green;
+}
+
+button{
+    background-color: orange;
+    border-color: orange;
+}
