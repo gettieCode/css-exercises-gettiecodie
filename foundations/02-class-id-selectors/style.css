@@ -1,0 +1,23 @@
+.odd{
+    background-color: palevioletred;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.adjust{
+    font-size: 195%;
+    background-color: palevioletred;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#numTwoID{
+    color: blue;
+    font-size: xxx-large;
+}
+
+#numFourID{
+    font-size: xx-large;
+    font-weight: bold;
+    background-color: greenyellow;
+
+}
