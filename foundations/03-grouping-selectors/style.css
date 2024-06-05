@@ -1,0 +1,19 @@
+.Yes, No{
+    border-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    background-color: black;
+}
+
+.Yes{
+    color: white;
+    font-weight: bold;
+}
+
+
+
+.No{
+    background-color: yellow;
+    color: black;
+}
+
